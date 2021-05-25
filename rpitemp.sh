@@ -2,5 +2,5 @@ while :
 	do
 		clear
 		vcgencmd measure_temp
-		sleep 1
+		sleep .2
 	done
